@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/empregistration/static/css/main.a617e044.chunk.css",
+    "main.js": "/empregistration/static/js/main.a6c9bee6.chunk.js",
+    "main.js.map": "/empregistration/static/js/main.a6c9bee6.chunk.js.map",
+    "runtime-main.js": "/empregistration/static/js/runtime-main.c8d7db34.js",
+    "runtime-main.js.map": "/empregistration/static/js/runtime-main.c8d7db34.js.map",
+    "static/css/2.912185aa.chunk.css": "/empregistration/static/css/2.912185aa.chunk.css",
+    "static/js/2.4ad82f66.chunk.js": "/empregistration/static/js/2.4ad82f66.chunk.js",
+    "static/js/2.4ad82f66.chunk.js.map": "/empregistration/static/js/2.4ad82f66.chunk.js.map",
+    "static/js/3.23e69fcc.chunk.js": "/empregistration/static/js/3.23e69fcc.chunk.js",
+    "static/js/3.23e69fcc.chunk.js.map": "/empregistration/static/js/3.23e69fcc.chunk.js.map",
+    "index.html": "/empregistration/index.html",
+    "static/css/2.912185aa.chunk.css.map": "/empregistration/static/css/2.912185aa.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/empregistration/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.4ad82f66.chunk.js.LICENSE.txt": "/empregistration/static/js/2.4ad82f66.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/empregistration/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8d7db34.js",
+    "static/css/2.912185aa.chunk.css",
+    "static/js/2.4ad82f66.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.a6c9bee6.chunk.js"
+  ]
+}
