@@ -18,7 +18,7 @@ import com.springrest.springrest.entities.Employee;
 import com.springrest.springrest.services.EmployeeService;
 
 @RestController
-@CrossOrigin(origins="https://ushmapatel.github.io")
+@CrossOrigin(origins="*")
 public class MyController 
 {
 	
